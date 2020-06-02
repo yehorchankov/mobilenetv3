@@ -1,0 +1,6 @@
+{
+  "weights": "./mbv3_small.pth.tar",
+  "inputs": {
+    "image": [1, 3, 224, 224]
+  }
+}
